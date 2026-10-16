@@ -1,0 +1,14 @@
+{
+  "name": "locacao-online",
+  "version": "2.0.0-rc1",
+  "private": true,
+  "description": "Locação Online de equipamentos com integração ao ERP das lojas",
+  "main": "server.js",
+  "scripts": {
+    "start:v1": "node server.js v1",
+    "start:v2": "node server.js v2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

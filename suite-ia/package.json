@@ -1,0 +1,12 @@
+{
+  "name": "locacao-online-e2e",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Suíte E2E da Locação Online v2",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.48.2"
+  }
+}
